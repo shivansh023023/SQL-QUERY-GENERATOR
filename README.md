@@ -1,3 +1,5 @@
+You can access the website at - https://sql-query-generator-lcmmrl3rurizsup225bez2.streamlit.app/
+
 ```markdown
 # 📊 SQL Query Generator
 
