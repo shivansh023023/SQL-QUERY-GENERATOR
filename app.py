@@ -21,7 +21,7 @@ def main():
         unsafe_allow_html=True,
 
     )
-    text_input=st.text_area("Enter your Query here in Plain Enlish")
+    text_input=st.text_area("Enter your Query here in Plain English")
     
     submit = st.button("Generate SQL query")
     if submit:
