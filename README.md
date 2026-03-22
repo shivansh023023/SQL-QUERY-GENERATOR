@@ -5,7 +5,7 @@ You can access the website at - https://sql-query-generator-lcmmrl3rurizsup225be
 
 A simple yet powerful web application that generates SQL queries from plain English prompts using **Google's Gemini Pro Model**. This tool also provides explanations and sample outputs for the generated SQL queries.
 
-## 🚀 Features
+##  Features
 
 - ✅ Convert natural language to SQL queries
 - ✅ Get **sample outputs** for your SQL queries
