@@ -12,7 +12,7 @@ A simple yet powerful web application that generates SQL queries from plain Engl
 - ✅ Simple and easy-to-understand **query explanations**
 - ✅ Interactive UI built with **Streamlit**
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 
 - **Python** - Core programming language
 - **Streamlit** - For building the interactive web app
