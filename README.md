@@ -60,9 +60,7 @@ A simple yet powerful web application that generates SQL queries from plain Engl
    - 📊 A sample output table
    - 📝 A simple explanation of the query
 
-## 📷 Screenshots
 
-*(Add screenshots of your app here)*
 
 ## 📝 Example
 
